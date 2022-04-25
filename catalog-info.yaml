@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Pruebas backstage JC"
+  name: "Pruebas-backstage-JC"
   description: "Primera con JC"
   annotations:
     github.com/project-slug: Backstage-org/repo-prueba-nuevo
