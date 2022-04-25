@@ -1,0 +1,8 @@
+site_name: "prueba-github-actions"
+site_description: "Probando backstage JC"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
